@@ -149,6 +149,3 @@ class MeuBoss(Boss):
 ```
 
 Para mudar o visual de qualquer elemento, basta editar o desenho correspondente no `sprites.py`. Cada letra é uma cor da `PALETA` (`W` é branco, `C` é ciano, `B` é azul) e o ponto é transparente. Todas as linhas de um desenho precisam ter o mesmo tamanho.
-## Autora
-
-Amanda Monteiro da Silva
